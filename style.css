@@ -56,3 +56,7 @@ video {
     z-index: -1; 
     
   }
+
+  body {
+    color: red;
+  }
